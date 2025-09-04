@@ -1,0 +1,31 @@
+
+---
+
+## 🖼️ Screenshots
+
+*(Add screenshots of the node in the ComfyUI graph and the Reset Seed button here)*
+
+Example placeholder:
+
+![Seed Snapshot Manager Node](./docs/screenshot-node.png)
+
+---
+
+## ⚙️ Usage
+1. Add the **Seed Snapshot Manager** node to your workflow.
+2. Connect a `seed` value into it, or let it generate one.
+3. Use the **Reset Seed** button to quickly assign a new random seed.
+4. Seeds are saved under labels and can be restored later.
+
+---
+
+## 🔮 Future Plans
+- Multiple seed snapshots per workflow.
+- Import/export snapshots to JSON.
+- Sync with workflow metadata for automatic saving.
+
+---
+
+## 📜 License
+This project is licensed under the **MIT License**.  
+See [MIT License.txt](./MIT%20License.txt) for details.
